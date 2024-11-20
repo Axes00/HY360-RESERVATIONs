@@ -3,4 +3,5 @@ public class Main {
         System.out.println("Hello world!");
     }
     int x = 5;
+    int y=x;
 }
